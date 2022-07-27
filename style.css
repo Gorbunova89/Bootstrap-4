@@ -65,7 +65,7 @@
 
  .navbar-brand:hover, .active:hover
  {
-background-color: #e4d83b;
+background-color: #f0f3ef;
 color: #2d2d2d;
  }
  
@@ -132,3 +132,20 @@ color: #2d2d2d;
    background-color: silver;
  }
 
+ .section-six {
+  background-color: #f85c37;
+ }
+
+ .footer {
+  background: #2d2d2d;
+
+ }
+
+ .footer i {
+  font-size: 30px;
+  color: #7b7b7b;
+ }
+
+ .footer i:hover {
+  color: #f85c37;
+ }
